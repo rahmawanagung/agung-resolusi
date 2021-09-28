@@ -4,3 +4,4 @@ resolusi
 - membuat website buat project akhir mata kuliah web programming
 - bikin usaha
 - nabung
+- custom motor model scrambler
